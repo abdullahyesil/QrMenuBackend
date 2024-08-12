@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Infrastructure.deps.json
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Infrastructure.dll
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Infrastructure.pdb
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Application.dll
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Domain.dll
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Application.pdb
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\bin\Debug\net8.0\MenuQr.Domain.pdb
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.I.2D9118AE.Up2Date
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.dll
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\refint\MenuQr.Infrastructure.dll
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\MenuQr.Infrastructure.pdb
+C:\Users\PC\source\repos\MenuQrServer\Infrastructure\MenuQr.Infrastructure\obj\Debug\net8.0\ref\MenuQr.Infrastructure.dll

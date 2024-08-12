@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\bin\Debug\net8.0\MenuQr.Application.deps.json
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\bin\Debug\net8.0\MenuQr.Application.dll
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\bin\Debug\net8.0\MenuQr.Application.pdb
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\bin\Debug\net8.0\MenuQr.Domain.dll
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\bin\Debug\net8.0\MenuQr.Domain.pdb
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.AssemblyInfo.cs
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.A.8723E999.Up2Date
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.dll
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\refint\MenuQr.Application.dll
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\MenuQr.Application.pdb
+C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Application\obj\Debug\net8.0\ref\MenuQr.Application.dll

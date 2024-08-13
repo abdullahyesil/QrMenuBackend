@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CFiahmmlGpQ=",
+  "dgSpecHash": "0gFL+1IF97A=",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Infrastructure\\MenuQr.Persistence\\MenuQr.Persistence.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.7\\microsoft.entityframeworkcore.analyzers.8.0.7.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.7\\microsoft.entityframeworkcore.design.8.0.7.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.7\\microsoft.entityframeworkcore.relational.8.0.7.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.7\\microsoft.entityframeworkcore.tools.8.0.7.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

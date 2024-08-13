@@ -9,3 +9,15 @@ C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr
 C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Domain\obj\Debug\net8.0\refint\MenuQr.Domain.dll
 C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.pdb
 C:\Users\PC\source\repos\MenuQrServer\Core\MenuQr.Domain\obj\Debug\net8.0\ref\MenuQr.Domain.dll
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\bin\Debug\net8.0\MenuQr.Domain.deps.json
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\bin\Debug\net8.0\MenuQr.Domain.dll
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\bin\Debug\net8.0\MenuQr.Domain.pdb
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.sourcelink.json
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.dll
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\refint\MenuQr.Domain.dll
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\MenuQr.Domain.pdb
+C:\Users\PC\Documents\GitHub\QrMenuBackend\Core\MenuQr.Domain\obj\Debug\net8.0\ref\MenuQr.Domain.dll

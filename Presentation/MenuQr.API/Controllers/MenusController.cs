@@ -24,7 +24,7 @@ namespace MenuQr.API.Controllers
             return Ok(response);
         }
         [HttpGet]
-        public async Task<IActionResult> GetAllMenus(GetAllMenuQueryRequest getAllMenuQueryRequest)
+        public async Task<IActionResult> GetAllMenus([FromQuery] GetAllMenuQueryRequest getAllMenuQueryRequest)
         {
             GetAllMenuQueryResponse response = await _mediator.Send(getAllMenuQueryRequest);
             return Ok(response);

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace MenuQr.Persistence.Context
 {
     public class MenuQrDbContext:DbContext
@@ -14,6 +15,8 @@ namespace MenuQr.Persistence.Context
         public MenuQrDbContext(DbContextOptions<MenuQrDbContext> options) : base(options) { }
 
         public DbSet<Menu> Menus { get; set; }
+        public DbSet<Items> Items { get; set; }
+        public DbSet<Designs> Designs { get; set; }
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {

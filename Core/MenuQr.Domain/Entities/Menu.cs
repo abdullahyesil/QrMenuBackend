@@ -15,9 +15,6 @@ namespace MenuQr.Domain.Entities
         public string Description { get; set; }
         public string QrCodeUrl { get; set; }
         public string Link { get; set; }
-
-        // Navigation Properties
-        public ICollection<Items> Items { get; set; }
-        public Designs Design { get; set; }
+     
     }
 }

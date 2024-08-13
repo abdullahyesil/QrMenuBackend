@@ -20,7 +20,7 @@ namespace MenuQr.Application.Features.Commands.Menu.Create
 
         public async Task<CreateMenuCommandResponse> Handle(CreateMenuCommandRequest request, CancellationToken cancellationToken)
         {
-          await _repository.AddAsync(new(){ Name = request.Name , Description = request.Description , Link = request.Description, QrCodeUrl = request.QrCodeUrl });
+          await _repository.AddAsync(new(){ Name = request.Name , CreatorId = request.CreatorId, Description = request.Description , Link = request.Description, QrCodeUrl = request.QrCodeUrl });
 
             try
             {

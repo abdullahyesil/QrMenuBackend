@@ -1,0 +1,14 @@
+﻿using MenuQr.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MenuQr.Application.Features.Queries.Items.GetItemsByMenuId
+{
+    public class GetItemsByMenuIdQueryResponse
+    {
+        public List<Domain.Entities.Items> Items { get; set; }
+    }
+}

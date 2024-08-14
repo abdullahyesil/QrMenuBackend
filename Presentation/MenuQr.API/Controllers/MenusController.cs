@@ -30,7 +30,7 @@ namespace MenuQr.API.Controllers
             GetAllMenuQueryResponse response = await _mediator.Send(getAllMenuQueryRequest);
             return Ok(response);
         }
-        [HttpGet("Id")]
+        [HttpGet("{Id}")]
         public async Task<IActionResult> GetMenuById([FromRoute]GetMenuByIdQueryRequest request)
         {
             GetMenuByIdQueryResponse response = await _mediator.Send(request);

@@ -24,7 +24,7 @@ namespace MenuQr.API.Controllers
             CreateDesignsCommandResponse response = await _mediator.Send(createDesignsCommandRequest);
             return Ok(response);
         }
-        [HttpGet("Id")]
+        [HttpGet("{Id}")]
         public async Task<IActionResult> getById([FromRoute] GetDesignsByIdQueryRequest getDesignsById)
         {
             GetDesignsByIdQueryResponse response = await _mediator.Send(getDesignsById);

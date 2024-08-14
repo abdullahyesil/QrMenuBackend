@@ -17,6 +17,7 @@ namespace MenuQr.Persistence.Context
         public DbSet<Menu> Menus { get; set; }
         public DbSet<Items> Items { get; set; }
         public DbSet<Designs> Designs { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {

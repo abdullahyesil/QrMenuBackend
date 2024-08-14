@@ -3,132 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\controllers\\designscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\controllers\\designscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.domain\\entities\\designs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|solutionrelative:core\\menuqr.domain\\entities\\designs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.domain\\entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|solutionrelative:core\\menuqr.domain\\entities\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35D61FD4-0EC4-4D62-BD4A-9D6C06B0B921}|Core\\MenuQr.Domain\\MenuQr.Domain.csproj|solutionrelative:core\\menuqr.domain\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\designs\\getdesignsbyid\\getdesignsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\designs\\create\\createdesignscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\designs\\create\\createdesignscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\items\\create\\createitemscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\items\\create\\createitemscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\designs\\create\\createdesignscommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\designs\\create\\createdesignscommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\items\\create\\createitemscommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\items\\create\\createitemscommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\menu\\create\\createmenucommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\presentation\\menuqr.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B29B17-038F-4065-8FEB-A92E3A36D57A}|Presentation\\MenuQr.API\\MenuQr.API.csproj|solutionrelative:presentation\\menuqr.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getmenubyid\\getmenubyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\menu\\getall\\getallmenuqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbyid\\getitemsbyidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D4FAD33-63ED-4895-A0A2-68A0A49EA321}|Infrastructure\\MenuQr.Persistence\\MenuQr.Persistence.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\infrastructure\\menuqr.persistence\\migrations\\20240813083929_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D4FAD33-63ED-4895-A0A2-68A0A49EA321}|Infrastructure\\MenuQr.Persistence\\MenuQr.Persistence.csproj|solutionrelative:infrastructure\\menuqr.persistence\\migrations\\20240813083929_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\category\\getcategorybymenuidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\category\\getcategorybymenuidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\category\\getcategorybymenuidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\category\\getcategorybymenuidresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\queries\\items\\getitemsbymenuid\\getitemsbymenuidqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4FAD33-63ED-4895-A0A2-68A0A49EA321}|Infrastructure\\MenuQr.Persistence\\MenuQr.Persistence.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\infrastructure\\menuqr.persistence\\context\\menuqrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4FAD33-63ED-4895-A0A2-68A0A49EA321}|Infrastructure\\MenuQr.Persistence\\MenuQr.Persistence.csproj|solutionrelative:infrastructure\\menuqr.persistence\\context\\menuqrdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\features\\commands\\category\\create\\createcategorycomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\features\\commands\\category\\create\\createcategorycomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\category\\icategorywriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\menu\\imenureadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\menu\\imenureadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|c:\\users\\pc\\documents\\github\\qrmenubackend\\core\\menuqr.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C21C699-BD31-4B4D-A5A8-DF2338F94748}|Core\\MenuQr.Application\\MenuQr.Application.csproj|solutionrelative:core\\menuqr.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,396 +98,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetItemsByMenuIdQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:36:33.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetItemsByMenuIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryHandler.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:36:24.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenusController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:03.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAIwCMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:43:50.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetItemsByMenuIdQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:36:45.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T12:04:58.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetItemsByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:45:57.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DesignsController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\DesignsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\DesignsController.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\DesignsController.cs",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\DesignsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:42:04.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T11:34:12.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\appsettings.json",
-              "RelativeToolTip": "Presentation\\MenuQr.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-13T12:01:06.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetDesignsByIdQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:45:27.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "GetDesignsByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:44:59.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Menu.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Domain\\Entities\\Menu.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Menu.cs",
-              "RelativeToolTip": "Core\\MenuQr.Domain\\Entities\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:15:23.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Items.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Items.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Domain\\Entities\\Items.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Items.cs",
-              "RelativeToolTip": "Core\\MenuQr.Domain\\Entities\\Items.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:15:20.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Designs.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Designs.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Domain\\Entities\\Designs.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Domain\\Entities\\Designs.cs",
-              "RelativeToolTip": "Core\\MenuQr.Domain\\Entities\\Designs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:15:19.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetItemsByIdQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:46:13.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetItemsByIdQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:46:25.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetDesignsByIdQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Designs\\GetDesignsById\\GetDesignsByIdQueryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:45:14.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateDesignsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandHandler.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:40:23.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20240813083929_mig.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Infrastructure\\MenuQr.Persistence\\Migrations\\20240813083929_mig.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\MenuQr.Persistence\\Migrations\\20240813083929_mig.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Infrastructure\\MenuQr.Persistence\\Migrations\\20240813083929_mig.cs",
-              "RelativeToolTip": "Infrastructure\\MenuQr.Persistence\\Migrations\\20240813083929_mig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:39:29.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "CreateMenuCommandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:21.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "GetAllMenuQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:15.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GetMenuByIdQueryResponse.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryResponse.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryResponse.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryResponse.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:07:22.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateItemsCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandHandler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBUAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:40:52.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetAllMenuQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:09.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateMenuCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:05.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateItemsCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Items\\Create\\CreateItemsCommandRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:27.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateDesignsCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Designs\\Create\\CreateDesignsCommandRequest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:31.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GetMenuByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:06:19.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateMenuCommandRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Menu\\Create\\CreateMenuCommandRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:15:41.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "GetAllMenuQueryRequest.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryRequest.cs",
-              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryRequest.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryRequest.cs",
-              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetAll\\GetAllMenuQueryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:38:12.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "GetMenuByIdQueryRequest.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryRequest.cs",
               "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryRequest.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryRequest.cs",
               "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T08:07:20.83Z"
+              "WhenOpened": "2024-08-14T11:38:06.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetMenuByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Menu\\GetMenuById\\GetMenuByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:38:05.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetItemsByIdQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:37:58.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:37:10.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\MenusController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwCMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:37:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Presentation\\MenuQr.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Presentation\\MenuQr.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Presentation\\MenuQr.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:54:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCategoryByMenuIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdHandler.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:53:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCategoryByMenuIdResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdResponse.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdResponse.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Category\\GetCategoryByMenuIdResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:53:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetItemsByIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsById\\GetItemsByIdQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:53:49.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetItemsByMenuIdQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Queries\\Items\\GetItemsByMenuId\\GetItemsByMenuIdQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:53:47.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuQrDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Infrastructure\\MenuQr.Persistence\\Context\\MenuQrDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\MenuQr.Persistence\\Context\\MenuQrDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Infrastructure\\MenuQr.Persistence\\Context\\MenuQrDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\MenuQr.Persistence\\Context\\MenuQrDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:50:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCategoryComandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Category\\Create\\CreateCategoryComandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Features\\Commands\\Category\\Create\\CreateCategoryComandHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Features\\Commands\\Category\\Create\\CreateCategoryComandHandler.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Features\\Commands\\Category\\Create\\CreateCategoryComandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:50:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\Category\\ICategoryWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:50:02.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\Category\\ICategoryReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:50:01.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:59.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IWriteRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMenuReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\Menu\\IMenuReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:58.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IReadRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\MenuQr.Application\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\QrMenuBackend\\Core\\MenuQr.Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\MenuQr.Application\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T09:49:55.026Z",
+              "EditorCaption": ""
             }
           ]
         }

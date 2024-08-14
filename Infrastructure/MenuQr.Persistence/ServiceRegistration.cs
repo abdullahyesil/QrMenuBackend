@@ -18,14 +18,15 @@ namespace MenuQr.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
         {
-           services.AddDbContext<MenuQrDbContext>(options => options.UseNpgsql(configuration.GetConnectionString("PostgreSQL")));
-           services.AddScoped<IMenuReadRepository, MenuReadRepository>();
-           services.AddScoped<IMenuWriteRepository, MenuWriteRepository>();
-           services.AddScoped<IDesignReadRepository, DesignReadRepository>();
-           services.AddScoped<IDesignWriteRepository, DesignWriteRepository>();
+            services.AddDbContext<MenuQrDbContext>(options => options.UseNpgsql(configuration.GetConnectionString("PostgreSQL")));
+            services.AddScoped<IMenuReadRepository, MenuReadRepository>();
+            services.AddScoped<IMenuWriteRepository, MenuWriteRepository>();
+            services.AddScoped<IDesignReadRepository, DesignReadRepository>();
+            services.AddScoped<IDesignWriteRepository, DesignWriteRepository>();
             services.AddScoped<IItemReadRepository, ItemReadRepository>();
             services.AddScoped<IItemWriteRepository, ItemWriteRepository>();
-
+            services.AddScoped<ICategoryReadRepository, CategoryReadRepository>();
+            services.AddScoped<ICategoryWriteRepository, CategoryWriteRepository>();
         }
     }
 }
